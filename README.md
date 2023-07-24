@@ -2,11 +2,8 @@
 All the mods required to join the Realm2box server. Please follow the instructions bellow for the proper installation method
 
 # Mod Included  
-* [Clumps](https://legacy.curseforge.com/minecraft/mc-mods/clumps) 
-* [Essential](https://essential.gg/) 
 * [FarmersDelight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight) 
 * [Carry On](https://legacy.curseforge.com/minecraft/mc-mods/carry-on)
-* [Chat Heads](https://www.curseforge.com/minecraft/mc-mods/chat-heads)
 * [Corpse](https://legacy.curseforge.com/minecraft/mc-mods/corpse)
 * [Minecraft Comes Alive Reborn](https://www.curseforge.com/minecraft/mc-mods/minecraft-comes-alive-reborn)
 * [VoiceChat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat)
@@ -18,7 +15,10 @@ All the mods required to join the Realm2box server. Please follow the instructio
 # Recommanded (Not Included) 
 
 * [Optifine](https://www.optifine.net/home)
-* [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin) 
+* [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin)
+* [Chat Heads](https://www.curseforge.com/minecraft/mc-mods/chat-heads)
+* [Essential](https://essential.gg/)
+* [Clumps](https://legacy.curseforge.com/minecraft/mc-mods/clumps) 
 
 # Instructions  
 

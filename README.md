@@ -2,7 +2,7 @@
 All the mods required to join the Realm2box server. Please follow the instructions bellow for the proper installation method
 
 # Mod Included  
-These mod are required in order to join the server.  
+These mods are required in order to join the server.  
 
 * [FarmersDelight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight) 
 * [Carry On](https://legacy.curseforge.com/minecraft/mc-mods/carry-on)
@@ -14,8 +14,8 @@ These mod are required in order to join the server.
 * [SophisticatedCore](https://www.curseforge.com/minecraft/mc-mods/sophisticated-core) (Mod Library)
 * [Architectury](https://www.curseforge.com/minecraft/mc-mods/architectury-api/files) (Mod Library)
 
-# Recommanded (Not Included) 
-These mod are recommanded but not required in order to join the server. 
+# Recommended (Not Included) 
+These mods are recommended but not required in order to join the server. 
 
 * [Optifine](https://www.optifine.net/home)
 * [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin)

@@ -1,6 +1,8 @@
 # Real2box Required Mods 
 All the mods required to join the Realm2box server. Please follow the instructions bellow for the proper installation method
 
+Current Minecraft version : **1.20.1**
+
 # Mod Included  
 These mods are required in order to join the server.  
 

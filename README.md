@@ -9,10 +9,11 @@ All the mods required to join the Realm2box server. Please follow the instructio
 * [Chat Heads](https://www.curseforge.com/minecraft/mc-mods/chat-heads)
 * [Corpse](https://legacy.curseforge.com/minecraft/mc-mods/corpse)
 * [Minecraft Comes Alive Reborn](https://www.curseforge.com/minecraft/mc-mods/minecraft-comes-alive-reborn)
-  * [Architectury](https://www.curseforge.com/minecraft/mc-mods/architectury-api/files)
-* [SophisticatedBackpack](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks)
-  * [SophisticatedCore](https://www.curseforge.com/minecraft/mc-mods/sophisticated-core)
 * [VoiceChat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat)
+* [Create](https://www.curseforge.com/minecraft/mc-mods/create) 
+* [SophisticatedBackpack](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks)
+* [SophisticatedCore](https://www.curseforge.com/minecraft/mc-mods/sophisticated-core) (Mod Library)
+* [Architectury](https://www.curseforge.com/minecraft/mc-mods/architectury-api/files) (Mod Library)
 
 # Recommanded (Not Included) 
 

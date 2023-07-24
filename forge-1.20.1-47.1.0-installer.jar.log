@@ -1,0 +1,10 @@
+JVM info: Oracle Corporation - 17.0.6 - 17.0.6+9-LTS-190
+java.net.preferIPv4Stack=true
+Current Time: 24/07/2023 14:41:36
+Host: files.minecraftforge.net [51.79.83.165]
+Host: maven.minecraftforge.net [51.79.83.165]
+Host: libraries.minecraft.net [13.107.253.35, 13.107.226.35]
+Host: launchermeta.mojang.com [13.107.253.35, 13.107.226.35]
+Host: piston-meta.mojang.com [13.107.253.35, 13.107.226.35]
+Host: authserver.mojang.com [13.33.165.54, 13.33.165.101, 13.33.165.53, 13.33.165.48]
+Found java version 17.0.6

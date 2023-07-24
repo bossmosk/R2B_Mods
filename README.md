@@ -1,8 +1,7 @@
-# R2B_Mods
-Mods required to join the server | Mods requis pour joindre le serveur 
+# Real2box Required Mods 
+Mods required to join the server
 
-
-Mod included : 
+# Mod List  
 * [Aquaculture](https://www.curseforge.com/minecraft/mc-mods/aquaculture)
 * [Clumps](https://www.curseforge.com/minecraft/mc-mods/aquaculture)
 * [Essential](https://www.curseforge.com/minecraft/mc-mods/aquaculture)

@@ -1,8 +1,7 @@
 # Real2box Required Mods 
 All the mods required to join the Realm2box server. Please follow the instructions bellow for the proper installation method
 
-# Mod List  
-* [Aquaculture](https://www.curseforge.com/minecraft/mc-mods/aquaculture)
+# Mod Included  
 * [Clumps](https://legacy.curseforge.com/minecraft/mc-mods/clumps) 
 * [Essential](https://essential.gg/) 
 * [FarmersDelight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight) 
@@ -15,6 +14,9 @@ All the mods required to join the Realm2box server. Please follow the instructio
   * [SophisticatedCore](https://www.curseforge.com/minecraft/mc-mods/sophisticated-core)
 * [VoiceChat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat)
 
+# Recommanded (Not Included) 
+
+* [Optifine](https://www.optifine.net/home) 
 
 # Instructions  
 

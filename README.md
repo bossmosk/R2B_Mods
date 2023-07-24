@@ -20,7 +20,6 @@ These mods are recommended but not required in order to join the server.
 * [Optifine](https://www.optifine.net/home)
 * [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin)
 * [Chat Heads](https://www.curseforge.com/minecraft/mc-mods/chat-heads)
-* [Essential](https://essential.gg/)
 * [Clumps](https://legacy.curseforge.com/minecraft/mc-mods/clumps) 
 
 # Instructions  

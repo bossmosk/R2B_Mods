@@ -3,7 +3,7 @@ All the mods required to join the Realm2box server. Please follow the instructio
 
 Current Minecraft version : **1.20.1**
 
-# Mod and Libaries Included
+# Mods and Libaries Included
 These mods are required in order to join the server. There are currently six mods and two libaries required. 
 
 * [FarmersDelight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight)

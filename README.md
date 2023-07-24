@@ -2,6 +2,8 @@
 All the mods required to join the Realm2box server. Please follow the instructions bellow for the proper installation method
 
 # Mod Included  
+These mod are required in order to join the server.  
+
 * [FarmersDelight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight) 
 * [Carry On](https://legacy.curseforge.com/minecraft/mc-mods/carry-on)
 * [Corpse](https://legacy.curseforge.com/minecraft/mc-mods/corpse)
@@ -13,6 +15,7 @@ All the mods required to join the Realm2box server. Please follow the instructio
 * [Architectury](https://www.curseforge.com/minecraft/mc-mods/architectury-api/files) (Mod Library)
 
 # Recommanded (Not Included) 
+These mod are recommanded but not required in order to join the server. 
 
 * [Optifine](https://www.optifine.net/home)
 * [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin)

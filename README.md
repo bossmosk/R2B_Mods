@@ -3,10 +3,10 @@ Mods required to join the server | Mods requis pour joindre le serveur
 
 
 Mod included : 
-[Aquaculture](https://www.curseforge.com/minecraft/mc-mods/aquaculture)
-[Clumps](https://www.curseforge.com/minecraft/mc-mods/aquaculture)
-[Essential](https://www.curseforge.com/minecraft/mc-mods/aquaculture)
-[FarmersDelight](https://www.curseforge.com/minecraft/mc-mods/aquaculture)
+* [Aquaculture](https://www.curseforge.com/minecraft/mc-mods/aquaculture)
+* [Clumps](https://www.curseforge.com/minecraft/mc-mods/aquaculture)
+* [Essential](https://www.curseforge.com/minecraft/mc-mods/aquaculture)
+* [FarmersDelight](https://www.curseforge.com/minecraft/mc-mods/aquaculture)
 [Architectury](https://www.curseforge.com/minecraft/mc-mods/aquaculture)
 [Carryon](https://www.curseforge.com/minecraft/mc-mods/aquaculture)
 [Chat Heads](https://www.curseforge.com/minecraft/mc-mods/aquaculture)

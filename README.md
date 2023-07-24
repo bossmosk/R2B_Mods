@@ -18,7 +18,7 @@ All the mods required to join the Realm2box server. Please follow the instructio
 
 # Instructions  
 
-**Note : Make sure [Java](https://www.java.com/download/ie_manual.jsp) is already installed on your computer**
+**Note : Make sure the [Java](https://www.java.com/download/ie_manual.jsp) runtime is already installed on your computer**
 
 1. Download the [ZIP file](https://github.com/bossmosk/R2B_Mods/archive/refs/heads/main.zip)
 2. Extract it

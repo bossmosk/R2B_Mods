@@ -35,4 +35,4 @@ These mods are recommended but not required in order to join the server. Install
 7. Open your Minecraft Launcher then choose Forge
 8. Enjoy!
 
-**Forge might crash at first, try to relaunch Minecraft**
+**Forge might crash at first, if so, try to relaunch Minecraft**

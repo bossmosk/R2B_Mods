@@ -19,7 +19,7 @@ Mod included :
 
 # Instructions  
 
-**Note : Make sure Java is already installed on your computer **
+*Note : Make sure Java is already installed on your computer *
 
 1. Download the [ZIP file](https://github.com/bossmosk/R2B_Mods/archive/refs/heads/main.zip)
 2. Extract it
@@ -30,7 +30,7 @@ Mod included :
 7. Open your Minecraft Launcher then choose Forge
 8. Enjoy!
 
-** Forge might crash at first, try to relaunch Minecraft **
+* Forge might crash at first, try to relaunch Minecraft *
 
 I have more [^1] to say up here.
 [^1]: To say down here.

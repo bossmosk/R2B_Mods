@@ -3,17 +3,17 @@ All the mods required to join the Realm2box server. Please follow the instructio
 
 # Mod List  
 * [Aquaculture](https://www.curseforge.com/minecraft/mc-mods/aquaculture)
-* [Clumps](https://www.curseforge.com/minecraft/mc-mods/aquaculture)
-* [Essential](https://www.curseforge.com/minecraft/mc-mods/aquaculture)
-* [FarmersDelight](https://www.curseforge.com/minecraft/mc-mods/aquaculture)
-* [Carryon](https://www.curseforge.com/minecraft/mc-mods/aquaculture)
-* [Chat Heads](https://www.curseforge.com/minecraft/mc-mods/aquaculture)
-* [Corpse](https://www.curseforge.com/minecraft/mc-mods/aquaculture)
-* [Minecraft Comes Alive Reborn](https://www.curseforge.com/minecraft/mc-mods/aquaculture)
-  * [Architectury](https://www.curseforge.com/minecraft/mc-mods/aquaculture)
-* [SophisticatedBackpack](https://www.curseforge.com/minecraft/mc-mods/aquaculture)
-  * [SophisticatedCore](https://www.curseforge.com/minecraft/mc-mods/aquaculture)
-* [VoiceChat](https://www.curseforge.com/minecraft/mc-mods/aquaculture)
+* [Clumps](https://legacy.curseforge.com/minecraft/mc-mods/clumps) 
+* [Essential](https://essential.gg/) 
+* [FarmersDelight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight) 
+* [Carry On](https://legacy.curseforge.com/minecraft/mc-mods/carry-on)
+* [Chat Heads](https://www.curseforge.com/minecraft/mc-mods/chat-heads)
+* [Corpse](https://legacy.curseforge.com/minecraft/mc-mods/corpse)
+* [Minecraft Comes Alive Reborn](https://www.curseforge.com/minecraft/mc-mods/minecraft-comes-alive-reborn)
+  * [Architectury](https://www.curseforge.com/minecraft/mc-mods/architectury-api/files)
+* [SophisticatedBackpack](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks)
+  * [SophisticatedCore](https://www.curseforge.com/minecraft/mc-mods/sophisticated-core)
+* [VoiceChat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat)
 
 
 # Instructions  

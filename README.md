@@ -17,7 +17,8 @@ All the mods required to join the Realm2box server. Please follow the instructio
 
 # Recommanded (Not Included) 
 
-* [Optifine](https://www.optifine.net/home) 
+* [Optifine](https://www.optifine.net/home)
+* [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin) 
 
 # Instructions  
 

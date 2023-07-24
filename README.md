@@ -15,7 +15,7 @@ These mods are required in order to join the server.
 * [Architectury](https://www.curseforge.com/minecraft/mc-mods/architectury-api/files) (Mod Library)
 
 # Recommended (Not Included) 
-These mods are recommended but not required in order to join the server. 
+These mods are recommended but not required in order to join the server. Install them as you wish. 
 
 * [Optifine](https://www.optifine.net/home)
 * [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin)

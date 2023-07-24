@@ -1,7 +1,7 @@
 # Real2box Required Mods 
 All the mods required to join the Realm2box server. Please follow the instructions bellow for the proper installation method
 
-Current Minecraft version : **1.20.1**
+Current Minecraft server and Forge versions : **1.20.1**
 
 # Mods and Libaries Included
 These mods are required in order to join the server. There are currently six mods and two libaries required. 

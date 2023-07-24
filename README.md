@@ -3,15 +3,15 @@ All the mods required to join the Realm2box server. Please follow the instructio
 
 Current Minecraft version : **1.20.1**
 
-# Mod Included  
-These mods are required in order to join the server.  
+# Mod and Libaries Included
+These mods are required in order to join the server. There are currently six mods and two libaries required. 
 
-* [FarmersDelight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight) 
+* [FarmersDelight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight)
+* [Create](https://www.curseforge.com/minecraft/mc-mods/create) 
 * [Carry On](https://legacy.curseforge.com/minecraft/mc-mods/carry-on)
 * [Corpse](https://legacy.curseforge.com/minecraft/mc-mods/corpse)
 * [Minecraft Comes Alive Reborn](https://www.curseforge.com/minecraft/mc-mods/minecraft-comes-alive-reborn)
 * [VoiceChat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat)
-* [Create](https://www.curseforge.com/minecraft/mc-mods/create) 
 * [SophisticatedBackpack](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks)
 * [SophisticatedCore](https://www.curseforge.com/minecraft/mc-mods/sophisticated-core) (Mod Library)
 * [Architectury](https://www.curseforge.com/minecraft/mc-mods/architectury-api/files) (Mod Library)

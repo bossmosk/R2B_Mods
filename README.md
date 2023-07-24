@@ -1,5 +1,5 @@
 # Real2box Required Mods 
-Mods required to join the server
+All the mods required to join the Realm2box server. Please follow the instructions bellow for the proper installation method
 
 # Mod List  
 * [Aquaculture](https://www.curseforge.com/minecraft/mc-mods/aquaculture)

@@ -4,7 +4,7 @@ All the mods required to join the Realm2box server. Please follow the instructio
 Current Minecraft server and Forge versions : **1.20.1**
 
 # Mods and Libaries Included
-These mods are required in order to join the server. There are currently six mods and two libaries required. 
+These mods are required in order to join the server. There are currently eight mods and five libaries required. 
 * [Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty)
 * [Touugh As Nails](https://www.curseforge.com/minecraft/mc-mods/tough-as-nails)
 * [Epic Knight](https://www.curseforge.com/minecraft/mc-mods/epic-knights-armor-and-weapons)

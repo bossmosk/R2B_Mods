@@ -5,16 +5,19 @@ Current Minecraft server and Forge versions : **1.20.1**
 
 # Mods and Libaries Included
 These mods are required in order to join the server. There are currently six mods and two libaries required. 
-
-* [FarmersDelight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight)
+* [Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty)
+* [Touugh As Nails](https://www.curseforge.com/minecraft/mc-mods/tough-as-nails)
+* [Epic Knight](https://www.curseforge.com/minecraft/mc-mods/epic-knights-armor-and-weapons)
 * [Create](https://www.curseforge.com/minecraft/mc-mods/create) 
 * [Carry On](https://legacy.curseforge.com/minecraft/mc-mods/carry-on)
 * [Corpse](https://legacy.curseforge.com/minecraft/mc-mods/corpse)
 * [Minecraft Comes Alive Reborn](https://www.curseforge.com/minecraft/mc-mods/minecraft-comes-alive-reborn)
 * [VoiceChat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat)
-* [SophisticatedBackpack](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks)
-* [SophisticatedCore](https://www.curseforge.com/minecraft/mc-mods/sophisticated-core) (Mod Library)
 * [Architectury](https://www.curseforge.com/minecraft/mc-mods/architectury-api/files) (Mod Library)
+* [TerraBlender](https://www.curseforge.com/minecraft/mc-mods/terrablender) (Mod Library)
+* [Athena](https://www.curseforge.com/minecraft/mc-mods/athena/files/4621937) (Mod Library)
+* [Cloth Config](https://www.curseforge.com/minecraft/mc-mods/cloth-config) (Mod Library)
+* [ResourcefullLib](https://www.curseforge.com/minecraft/mc-mods/resourceful-lib) (Mod Library)
 
 # Recommended (Not Included) 
 These mods are recommended but not required in order to join the server. Install them as you wish. 
